@@ -13,7 +13,7 @@ Website Using HTML, CSS, SCSS and JavaScript, with a wonderful user interface.
 - Contact
 
 <div align="center">
-<a href="https://github.com/rohitmishra81/Portfolio"><strong>➥ Live Demo</strong></a>
+<a href="https://rohitmishra81.github.io/Portfolio/"><strong>➥ Live Demo</strong></a>
 
 <p align="center"><b>If you found the code useful, please feel free to fork it and modify it as you see fit.</p> <br>
 </div>
